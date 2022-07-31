@@ -1,23 +1,16 @@
 ---
-cover: .gitbook/assets/1626259562000.jpg
-coverY: 19.937392795883362
-layout: landing
+cover: >-
+  https://images.unsplash.com/photo-1507668077129-56e32842fceb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxjb25zdWx0aW5nfGVufDB8fHx8MTY1OTI3MjQ4NQ&ixlib=rb-1.2.1&q=80
+coverY: 0
 ---
 
-# Quick Links
+# Freelance Consulting
 
-{% content-ref url="quick-links/freelance-consulting.md" %}
-[freelance-consulting.md](quick-links/freelance-consulting.md)
-{% endcontent-ref %}
+I tend to help out various companies from startups through to global enterprises, this helps to keep me grounded in day to day problems that most companies face.   These are chargable engagement, although sometimes if I like the company, people and the problem faced, I charge reduced rates or sometimes just do some engagements for free.
 
-{% content-ref url="saas-inbox-and-headless-saas/" %}
-[saas-inbox-and-headless-saas](saas-inbox-and-headless-saas/)
-{% endcontent-ref %}
+* Fractional CTO (I support up-to 3 companies at most, currently supporting 2 companies)
+* On Call Technical Expert 1hr AMA Sessions (various Consulting, VC, M\&A, and PE companies)
 
-{% content-ref url="quick-links/books-and-technical-writing.md" %}
-[books-and-technical-writing.md](quick-links/books-and-technical-writing.md)
-{% endcontent-ref %}
+Contact me via: [https://scott.ling.108@gmail.com](mailto://scott.ling.108@gmail.com) if you have any questions of want to know my rates, I charge industry standard fee's for 1hr AMA work, and for Fractional CTO type work I have a fixed rate.
 
-{% content-ref url="quick-links/how-to-contact-me.md" %}
-[how-to-contact-me.md](quick-links/how-to-contact-me.md)
-{% endcontent-ref %}
+[🔗 ](https://linkedin.com/in/lingscott)[Linkedin Profile](https://linkedin.com/in/lingscott)
