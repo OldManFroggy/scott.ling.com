@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Scott Ling](README.md)
-  * [Freelance Consulting](scott-ling/freelance-consulting.md)
-  * [Books and Technical Writing](scott-ling/books-and-technical-writing.md)
-  * [How to contact me](scott-ling/how-to-contact-me.md)
+* [Quick Links](README.md)
+  * [Freelance Consulting](quick-links/freelance-consulting.md)
+  * [Books and Technical Writing](quick-links/books-and-technical-writing.md)
+  * [How to contact me](quick-links/how-to-contact-me.md)
 * [SaaS Inbox, and Headless SaaS](saas-inbox-and-headless-saas/README.md)
   * [SaaS Inbox](saas-inbox-and-headless-saas/saas-inbox.md)
   * [Headless SaaS](saas-inbox-and-headless-saas/headless-saas.md)
