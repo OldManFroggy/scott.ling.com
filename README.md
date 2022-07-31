@@ -1,16 +1,12 @@
 ---
+description: Content related to my SaaS Inbox, and Headless SaaS Projects/Products
 cover: >-
-  https://images.unsplash.com/photo-1507668077129-56e32842fceb?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxjb25zdWx0aW5nfGVufDB8fHx8MTY1OTI3MjQ4NQ&ixlib=rb-1.2.1&q=80
-coverY: 0
+  https://images.unsplash.com/photo-1586281380117-5a60ae2050cc?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw5fHxwcm9qZWN0fGVufDB8fHx8MTY1OTI3MTc2Mw&ixlib=rb-1.2.1&q=80
+coverY: 349.82675814751286
 ---
 
-# Freelance Consulting
+# SaaS Inbox, and Headless SaaS
 
-I tend to help out various companies from startups through to global enterprises, this helps to keep me grounded in day to day problems that most companies face.   These are chargable engagement, although sometimes if I like the company, people and the problem faced, I charge reduced rates or sometimes just do some engagements for free.
-
-* Fractional CTO (I support up-to 3 companies at most, currently supporting 2 companies)
-* On Call Technical Expert 1hr AMA Sessions (various Consulting, VC, M\&A, and PE companies)
-
-Contact me via: [https://scott.ling.108@gmail.com](mailto://scott.ling.108@gmail.com) if you have any questions of want to know my rates, I charge industry standard fee's for 1hr AMA work, and for Fractional CTO type work I have a fixed rate.
-
-[🔗 ](https://linkedin.com/in/lingscott)[Linkedin Profile](https://linkedin.com/in/lingscott)
+{% hint style="info" %}
+I am working actively on these projects.
+{% endhint %}
