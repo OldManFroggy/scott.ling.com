@@ -5,8 +5,5 @@ cover: >-
 coverY: 349.82675814751286
 ---
 
-# Headless SaaS, and SaaS Inbox
+# SaaS Inbox, and Headless SaaS
 
-{% hint style="info" %}
-I am working actively on these projects.
-{% endhint %}
