@@ -5,9 +5,9 @@ cover: >-
 coverY: 434.7169811320755
 ---
 
-# Books and Technical Writing
+# Books, and Technical Writing
 
-* Maning Publishing (Technical Editor, Technical Reviewer)
+* Manning Publishing (Technical Editor, Technical Reviewer)
 * New Riders Publishing (Best Selling Author)
 * PackT Publishing (Technical Reviewer)
 

@@ -5,7 +5,15 @@ cover: >-
 coverY: 349.82675814751286
 ---
 
-# SaaS Inbox, & Headless SaaS
+# Headless SaaS, and SaaS Inbox
+
+{% content-ref url="saas-inbox.md" %}
+[saas-inbox.md](saas-inbox.md)
+{% endcontent-ref %}
+
+{% content-ref url="headless-saas.md" %}
+[headless-saas.md](headless-saas.md)
+{% endcontent-ref %}
 
 {% hint style="info" %}
 I am working actively on these projects.

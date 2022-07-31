@@ -12,5 +12,5 @@ Articles, and webcasts are currently being planned.\
 I welcome any suggestions and feedback.
 
 \
-You can contact me via the links on [my contact page](../untitled/how-to-contact-me.md)
+You can contact me via the links on [my contact page](../quick-links/how-to-contact-me.md)
 {% endhint %}
