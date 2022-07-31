@@ -9,5 +9,5 @@
   * [SaaS Inbox](saas-inbox-and-headless-saas/saas-inbox.md)
   * [Headless SaaS](saas-inbox-and-headless-saas/headless-saas.md)
 * [Books, and Technical Writing](quick-links/books-and-technical-writing.md)
-* [How to contact me](quick-links/how-to-contact-me.md)
 * [Opensource Contributions](opensource-contributions.md)
+* [How to contact me](quick-links/how-to-contact-me.md)
