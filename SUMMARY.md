@@ -10,3 +10,4 @@
   * [Headless SaaS](saas-inbox-and-headless-saas/headless-saas.md)
 * [Books, and Technical Writing](quick-links/books-and-technical-writing.md)
 * [How to contact me](quick-links/how-to-contact-me.md)
+* [Opensource Contributions](opensource-contributions.md)
