@@ -12,7 +12,3 @@ coverY: 72.02915951972555
 * [Linkedin](https://linkedin.com/in/lingscott)
 * [Twitter](https://twitter.com/scottling108)
 
-{% hint style="info" %}
-I will be adding a discord server soon
-{% endhint %}
-
